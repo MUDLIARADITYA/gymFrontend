@@ -1,0 +1,17 @@
+PS G:\gms\vite-project> npm i react-router-dom
+
+// parentElement.contains(childElement)
+// Returns true if childElement is inside parentElement (including itself).
+
+//clicked outside passed location in e then !ref.current.contains(e.target) check if first that it is clicked outside return false but due to ! it will make it true 
+
+// If the user clicks outside the referenced element, 
+// ref.current.contains(e.target) returns false.
+// The ! operator negates it to true, triggering the state update to close the pop-up.
+
+
+// If the user clicks outside the referenced element, 
+// ref.current.contains(e.target) returns false.
+// The ! operator negates it to true, triggering the state update to close the pop-up.
+
+
